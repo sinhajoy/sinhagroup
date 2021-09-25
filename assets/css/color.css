@@ -31,7 +31,7 @@ hover css
 .dark-version p.star-blog i,
 a.filter.tag.active,
 .dark-version ul.nav.navbar-nav.sm li a:hover, .dark-version a.poast-text {
-    color: #e4a62b;
+    color: #3a8e82;
 }
 .dark-version .pricing-boxes:hover,
 .dark-version .testi-boxs:hover,
@@ -40,11 +40,11 @@ a.filter.tag.active,
 .dark-version .pagination-box span,
 .dark-version .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-    border: 1px solid #e4a62b;
+    border: 1px solid #3a8e82;
 }
 .dark-version .itg-button:hover {
     color: #fff;
-    background-color: #e4a62b;
+    background-color: #3a8e82;
 }
 .dark-version .service-box1:hover,
 .dark-version .pricing-boxes:hover .months-box,
@@ -57,6 +57,6 @@ button.button-style:hover,
 .owl-theme .owl-dots .owl-dot:hover span,
 .dark-version .baneer-desing,
 .dark-version ul.icon-hover li:hover {
-    background-color: #e4a62b;
+    background-color: #3a8e82;
 }
 /*

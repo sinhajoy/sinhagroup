@@ -1746,7 +1746,7 @@ h6 {
     padding: 0;
     position: absolute;
     background-size: cover !important;
-    #width: 100%;
+    width: 100%;
     z-index: 0;
 }
 .dark-version .special-style-full {
@@ -2159,7 +2159,7 @@ h6 {
     display: block;
     max-width: 80px;
     height: 80px;
-    #border-radius: 50%;
+    border-radius: 50%;
 }
 .dark-version .reviews-container .rev-content {
     position: relative;
@@ -2365,7 +2365,7 @@ h6 {
 #object {
     width: 80px;
     height: 80px;
-    background-color: #e4a62b;
+    background-color: #3a8e82;
     -webkit-animation: animate 1s infinite ease-in-out;
     animation: animate 1s infinite ease-in-out;
     margin-right: auto;
